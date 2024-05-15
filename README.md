@@ -14,22 +14,22 @@ This App was made by Olivier Westerman while studying at Vives Brugge in Spring 
 
 ## Screenshots
 ### Console Demo App
-![ConsoleDemoSelection](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/4f1ad93a-d12f-4ff2-85d0-035261ec8914)
-![ConsoleDemoOriginalFractions](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/eb3ae74b-fd02-48b9-8772-b9d02f66db7e)
-
-![ConsoleDemoOriginalFractionsSolutions](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/ee3107a6-7a97-4944-a286-f8e8e04c2930)
-![ConsoleDemoRandomFractionsSolutions](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/b2b5715c-7b84-42b4-bc91-abf668fa771e)
-
-### Unit Tests
-![UnitTests](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/2663e098-998e-442c-a8f6-f155a96ac2f3)
+![ConsoleDemoSelection](../MarvelQuiz/Images/DemoConsole1.jpg)
+![ConsoleDemoOriginalFractions](../MarvelQuiz/Images/DemoConsole2.jpg)
 
 ### WPF Application
-![StartupWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/33808c5b-f9b6-4ea2-9ee2-a167fb5c0342)
-![StartTabWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/cae196f6-9eb0-4e96-a9a7-2c83a44928f2)
-![OperatorsTabEmptyWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/6557e233-3df3-4547-b948-90991e5f4ea5)
-![OperatorsTabActionWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/2a06b241-5889-4b2c-b54d-0ecb27a8a5fa)
-![ManipulatorsTabEmptyWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/a80971fd-360c-421c-81e4-fa62e719df91)
-![ManipulatorsTabActionWPF](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/0e59df37-d673-4b40-9347-3b1ccc67c376)
+![ManipulatorsTabActionWPF](../MarvelQuiz/Images/SolutionOverview.jpg)
+![ManipulatorsTabActionWPF](../MarvelQuiz/Images/WPFwindowOverview.jpg)
+
+![StartupWPF](../MarvelQuiz/Images/MainWindow_Start.jpg)
+![OperatorsTabActionWPF](../MarvelQuiz/Images/MainWindow_PlayerInput.jpg)
+![StartTabWPF](../MarvelQuiz/Images/MainWindow_Game.jpg)
+![OperatorsTabEmptyWPF](../MarvelQuiz/Images/MainWindow_Correct.jpg)
+
+![ManipulatorsTabEmptyWPF](../MarvelQuiz/Images/Hiscores.jpg)
+![ManipulatorsTabActionWPF](../MarvelQuiz/Images/Hiscores_SaveFileWrite.jpg)
+![ManipulatorsTabActionWPF](../MarvelQuiz/Images/Hiscores_SaveFile.jpg)
+![ManipulatorsTabActionWPF](../MarvelQuiz/Images/About.jpg)
 
 ## Setup
 To set up and use the App effectively, you'll need to make sure you have Microsoft Visual Studio installed as well as install or update the NuGet packages from Newtonsoft.Json (version 13.0.3 or higher).
@@ -41,7 +41,7 @@ You can find a step-by-step guide for installing these packages here:
 
 Once everything is installed, open the project solution named 'MarvelQuiz.sln'. Then, build the solution to ensure all dependencies are resolved. 
 At the top of your window, select which project you want to run with the dropdown and the click on the play button next to it to run.
-![RunningProgram](https://github.com/OlivierWesterman/FractionCalculator/assets/145467433/74dbbb2b-fbe2-4001-870e-06ce6338deac)
+![RunningProgram](../MarvelQuiz/Images/SelectCorrectProgramToRun.jpg)
 
 ## UML diagram
 The following is the UML diagram for the Library as well as the other projects that it connects to.\
