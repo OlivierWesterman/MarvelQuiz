@@ -51,7 +51,7 @@ The UML of the Fraction class would only be the blue class.
 This [link](https://lucid.app/lucidchart/719c3ac3-6d12-45f4-9c02-9b0dc1dd661d/edit?viewport_loc=-2167%2C-39%2C3216%2C1221%2CHWEp-vi-RSFO&invitationId=inv_b5f2439a-9d1e-47bd-999a-76f4c800788b) also leads to a diagram version that can be zoomed in on but you do need to sign in with a Lucid account for that.
 
 ## Future Improvements
-- Left pictures out of the design because that was not a requirement, could add it later.
+- Left questions with pictures out of the design because that was not a requirement, could add it later.
 - I'm also sure there is a more powerful way to code the WPF-application by breaking the code into smaller methods.
 - In term of variety, I could have made a few extra options and allow the player to choose what topic they would like to be quizzed on by manipulating the API GET link in TriviaApiLibrary.
 
