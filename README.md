@@ -50,7 +50,7 @@ The UML of the Fraction class would only be the blue class.
 
 
 
-This [link]([https://lucid.app/lucidchart/719c3ac3-6d12-45f4-9c02-9b0dc1dd661d/edit?viewport_loc=-2167%2C-39%2C3216%2C1221%2CHWEp-vi-RSFO&invitationId=inv_b5f2439a-9d1e-47bd-999a-76f4c800788b](https://lucid.app/lucidchart/fa9f4dd1-42d1-4eda-8caf-a2333c42a592/edit?viewport_loc=-6904%2C-2487%2C5453%2C2471%2CHWEp-vi-RSFO&invitationId=inv_ca96e9b4-c156-44bf-872b-b8a1ab53fb81)) also leads to a diagram version that can be zoomed in on but you do need to sign in with a Lucid account for that.
+This [link](https://lucid.app/lucidchart/fa9f4dd1-42d1-4eda-8caf-a2333c42a592/edit?viewport_loc=-6904%2C-2487%2C5453%2C2471%2CHWEp-vi-RSFO&invitationId=inv_ca96e9b4-c156-44bf-872b-b8a1ab53fb81) also leads to a diagram version that can be zoomed in on but you do need to sign in with a Lucid account for that.
 
 ## Future Improvements
 - Left questions with pictures out of the design because that was not a requirement, could add it later.
