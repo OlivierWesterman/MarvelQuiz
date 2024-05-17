@@ -15,21 +15,21 @@ This App was made by Olivier Westerman while studying at Vives Brugge in Spring 
 ## Screenshots
 ### Console Demo App
 ![ConsoleDemoSelection](Images/DemoConsole1.jpg)
-![ConsoleDemoOriginalFractions](../MarvelQuiz/Images/DemoConsole2.jpg)
+![ConsoleDemoOriginalFractions](Images/DemoConsole2.jpg)
 
 ### WPF Application
-![ManipulatorsTabActionWPF](../MarvelQuiz/Images/SolutionOverview.jpg)
-![ManipulatorsTabActionWPF](../MarvelQuiz/Images/WPFwindowOverview.jpg)
+![ManipulatorsTabActionWPF](Images/SolutionOverview.jpg)
+![ManipulatorsTabActionWPF](Images/WPFwindowOverview.jpg)
 
-![StartupWPF](../MarvelQuiz/Images/MainWindow_Start.jpg)
-![OperatorsTabActionWPF](../MarvelQuiz/Images/MainWindow_PlayerInput.jpg)
-![StartTabWPF](../MarvelQuiz/Images/MainWindow_Game.jpg)
-![OperatorsTabEmptyWPF](../MarvelQuiz/Images/MainWindow_Correct.jpg)
+![StartupWPF](Images/MainWindow_Start.jpg)
+![OperatorsTabActionWPF](Images/MainWindow_PlayerInput.jpg)
+![StartTabWPF](Images/MainWindow_Game.jpg)
+![OperatorsTabEmptyWPF](Images/MainWindow_Correct.jpg)
 
-![ManipulatorsTabEmptyWPF](../MarvelQuiz/Images/Hiscores.jpg)
-![ManipulatorsTabActionWPF](../MarvelQuiz/Images/Hiscores_SaveFileWrite.jpg)
-![ManipulatorsTabActionWPF](../MarvelQuiz/Images/Hiscores_SaveFile.jpg)
-![ManipulatorsTabActionWPF](../MarvelQuiz/Images/About.jpg)
+![ManipulatorsTabEmptyWPF](Images/Hiscores.jpg)
+![ManipulatorsTabActionWPF](Images/Hiscores_SaveFileWrite.jpg)
+![ManipulatorsTabActionWPF](Images/Hiscores_SaveFile.jpg)
+![ManipulatorsTabActionWPF](Images/About.jpg)
 
 ## Setup
 To set up and use the App effectively, you'll need to make sure you have Microsoft Visual Studio installed as well as install or update the NuGet packages from Newtonsoft.Json (version 13.0.3 or higher).
@@ -41,7 +41,7 @@ You can find a step-by-step guide for installing these packages here:
 
 Once everything is installed, open the project solution named 'MarvelQuiz.sln'. Then, build the solution to ensure all dependencies are resolved. 
 At the top of your window, select which project you want to run with the dropdown and the click on the play button next to it to run.
-![RunningProgram](../MarvelQuiz/Images/SelectCorrectProgramToRun.jpg)
+![RunningProgram](Images/SelectCorrectProgramToRun.jpg)
 
 ## UML diagram
 The following is the UML diagram for the Library as well as the other projects that it connects to.\
