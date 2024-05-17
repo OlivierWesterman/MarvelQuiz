@@ -46,10 +46,11 @@ At the top of your window, select which project you want to run with the dropdow
 ## UML diagram
 The following is the UML diagram for the Library as well as the other projects that it connects to.\
 The UML of the Fraction class would only be the blue class.
-![UML diagram]([[Images/UML_diagram.png](https://github.com/OlivierWesterman/MarvelQuiz/blob/258f0205513842f2cce98fa4b9ac86f430a81fd6/Images/UML%20diagram.png)](https://github.com/OlivierWesterman/MarvelQuiz/blob/main/Images/UML%20diagram.png))
+![UML diagram](https://github.com/OlivierWesterman/MarvelQuiz/assets/145467433/46db9689-c01d-4056-be9d-e0562301993b)
 
 
-This [link](https://lucid.app/lucidchart/719c3ac3-6d12-45f4-9c02-9b0dc1dd661d/edit?viewport_loc=-2167%2C-39%2C3216%2C1221%2CHWEp-vi-RSFO&invitationId=inv_b5f2439a-9d1e-47bd-999a-76f4c800788b) also leads to a diagram version that can be zoomed in on but you do need to sign in with a Lucid account for that.
+
+This [link]([https://lucid.app/lucidchart/719c3ac3-6d12-45f4-9c02-9b0dc1dd661d/edit?viewport_loc=-2167%2C-39%2C3216%2C1221%2CHWEp-vi-RSFO&invitationId=inv_b5f2439a-9d1e-47bd-999a-76f4c800788b](https://lucid.app/lucidchart/fa9f4dd1-42d1-4eda-8caf-a2333c42a592/edit?viewport_loc=-6904%2C-2487%2C5453%2C2471%2CHWEp-vi-RSFO&invitationId=inv_ca96e9b4-c156-44bf-872b-b8a1ab53fb81)) also leads to a diagram version that can be zoomed in on but you do need to sign in with a Lucid account for that.
 
 ## Future Improvements
 - Left questions with pictures out of the design because that was not a requirement, could add it later.
