@@ -14,7 +14,7 @@ This App was made by Olivier Westerman while studying at Vives Brugge in Spring 
 
 ## Screenshots
 ### Console Demo App
-![ConsoleDemoSelection](../MarvelQuiz/Images/DemoConsole1.jpg)
+![ConsoleDemoSelection](Images/DemoConsole1.jpg)
 ![ConsoleDemoOriginalFractions](../MarvelQuiz/Images/DemoConsole2.jpg)
 
 ### WPF Application
